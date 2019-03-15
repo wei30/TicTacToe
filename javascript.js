@@ -244,7 +244,7 @@ $(document).ready(function(){
     }
   }
   
-  //Try to minimize the Human's score and try to maximize the AI's score
+  //Try to minimize the Human's score and try to maximize the AI's scor
   function HardAI_Turn(board, AI){//pass in the board, and AI as a player
      var bestMove = -10000; 
      var position;
